@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanu Baghel</h1>
-<div align="center"> <img src="https://github.com/tanubaghel/tanubaghel/blob/main/tanu.png"></div>
+
+<div align="center"> <img src="tanu.png"></div>
 <h3 align="center">A passionate Software Dveloper and DSA enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanubaghel&label=Profile%20views&color=0e75b6&style=flat" alt="tanubaghel" /> </p>
 
